@@ -27,7 +27,6 @@ function App() {
           <Reservation></Reservation>
           <Customer></Customer>
           <Blog></Blog>
-          <Footer></Footer>
        </Route>
        <Route path='/home'>
           <Hero></Hero>
