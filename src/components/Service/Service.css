@@ -1,0 +1,24 @@
+.margin {
+  margin-top: 120px;
+}
+.serviceTitle {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  right: 0;
+  font-weight: normal;
+  font-size: 100px;
+  display: block;
+  margin-bottom: 0;
+  color: #c8a97e;
+  line-height: 1;
+  font-family: "Brush Script MT", cursive;
+  margin-top: 0;
+  z-index: -1;
+}
+.icon {
+  color: rgba(218, 165, 32, 0.8);
+}
+.info {
+  color: rgb(105, 102, 102);
+}

@@ -1,0 +1,26 @@
+.heroImg{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.925);
+    background-blend-mode: overlay;
+}
+.caruImg{
+    height: 600px;
+}
+.bgcolor{
+    background-color: black;
+    color: white;
+}
+.title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 0;
+    color: gold;
+    line-height: 1;
+    font-family: "Brush Script MT", cursive;
+    margin-top: 0;
+}

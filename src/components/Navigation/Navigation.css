@@ -1,0 +1,9 @@
+.search{
+    width: 300px;
+}
+.background-color{
+background: #080b0c13;
+}
+.selected{
+    color: red;
+}
