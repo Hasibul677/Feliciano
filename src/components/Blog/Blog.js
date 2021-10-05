@@ -18,7 +18,7 @@ const Blog = () => {
               <Card.Title>Taste the delicious foods in Asia</Card.Title>
               <div className="d-flex justify-content-between align-items-center mt-5">
                 <button className="rounded-pill px-2">Read More</button>
-                <i class="fas fa-comment-dots">3</i>
+                <i className="fas fa-comment-dots">3</i>
               </div>
             </Card.Body>
           </Card>
@@ -31,7 +31,7 @@ const Blog = () => {
               <Card.Title>Taste the delicious foods in Asia</Card.Title>
               <div className="d-flex justify-content-between align-items-center mt-5">
                 <button className="rounded-pill px-2">Read More</button>
-                <i class="fas fa-comment-dots">3</i>
+                <i className="fas fa-comment-dots">3</i>
               </div>
             </Card.Body>
           </Card>
@@ -44,7 +44,7 @@ const Blog = () => {
               <Card.Title>Taste the delicious foods in Asia</Card.Title>
               <div className="d-flex justify-content-between align-items-center mt-5">
                 <button className="rounded-pill px-2">Read More</button>
-                <i class="fas fa-comment-dots">3</i>
+                <i className="fas fa-comment-dots">3</i>
               </div>
             </Card.Body>
           </Card>

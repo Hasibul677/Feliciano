@@ -15,13 +15,13 @@ const Footer = () => {
             </p>
             <div className='mt-4'>
             <a href="https://facebook.com/" target="blank">
-              <i class="me-3 fa-2x fab fa-facebook-f"></i>
+              <i className="me-3 fa-2x fab fa-facebook-f"></i>
             </a>
             <a href="https://twitter.com/" target="blank">
-              <i class="me-3 fa-2x fab fa-twitter"></i>
+              <i className="me-3 fa-2x fab fa-twitter"></i>
             </a>
             <a href="https://www.instagram.com/" target="blank">
-              <i class="me-3 fa-2x fab fa-instagram"></i>
+              <i className="me-3 fa-2x fab fa-instagram"></i>
             </a>
             </div>
           </div>
@@ -81,7 +81,7 @@ const Footer = () => {
           </div>
         </div>
       </Container>
-      <div className='text-white fs-4 text-center mt-5'><strong>&copy;Copyright Develop by <span className='text-danger bg-white px-3 rounded-pill'>Md Hasibul Hasan</span></strong></div>
+      <div className='text-white text-center mt-5'><strong>&copy;Copyright design by <span className='text-danger bg-white px-3 rounded-pill'>Md Hasibul Hasan</span></strong></div>
     </div>
   );
 };

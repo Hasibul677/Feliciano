@@ -13,16 +13,16 @@ const Customer = () => {
         <div className="col-12 col-md-12 col-lg-4">
           <div
             id="carouselExampleControls"
-            class="carousel slide"
+            className="carousel slide"
             data-bs-ride="carousel"
             data-interval="1000" 
             data-bs-pause="false"
           >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
+            <div className="carousel-inner">
+              <div className="carousel-item active">
                 <img
                   src="./images/customer/1.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -30,10 +30,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/2.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -41,10 +41,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/3.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -52,10 +52,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/4.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -69,16 +69,16 @@ const Customer = () => {
         <div className="col-12 col-md-12 col-lg-4">
           <div
             id="carouselExampleControls"
-            class="carousel slide"
+            className="carousel slide"
             data-bs-ride="carousel"
             data-interval="1000" 
             data-bs-pause="false"
           >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
+            <div className="carousel-inner">
+              <div className="carousel-item active">
                 <img
                   src="./images/customer/2.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -86,10 +86,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/3.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -97,10 +97,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/4.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -108,10 +108,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/1.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -125,16 +125,16 @@ const Customer = () => {
         <div className="col-12 col-md-12 col-lg-4">
           <div
             id="carouselExampleControls"
-            class="carousel slide"
+            className="carousel slide"
             data-bs-ride="carousel"
             data-interval="1000" 
             data-bs-pause="false"
           >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
+            <div className="carousel-inner">
+              <div className="carousel-item active">
                 <img
                   src="./images/customer/3.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -142,10 +142,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/4.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -153,10 +153,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/1.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>
@@ -164,10 +164,10 @@ const Customer = () => {
                     <h3>Md Hasibul Hasan</h3>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div className="carousel-item">
                 <img
                   src="./images/customer/2.webp"
-                  class="d-block w-100"
+                  className="d-block w-100"
                   alt="..."
                 />
                 <div>

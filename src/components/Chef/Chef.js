@@ -19,10 +19,10 @@ const Chef = () => {
               Restaurant Owner
               </Card.Text>
               <Card.Text>
-              <a href='https://facebook.com/' target='blank'><i class="me-3 fab fa-facebook-f"></i></a>
-              <a href='https://twitter.com/' target='blank'><i class="me-3 fab fa-twitter"></i></a>
-              <a href='https://www.instagram.com/' target='blank'><i class="me-3 fab fa-instagram"></i></a>
-              <a href='https://www.google.com/' target='blank'><i class="fab fa-google-plus-g"></i></a>
+              <a href='https://facebook.com/' target='blank'><i className="me-3 fab fa-facebook-f"></i></a>
+              <a href='https://twitter.com/' target='blank'><i className="me-3 fab fa-twitter"></i></a>
+              <a href='https://www.instagram.com/' target='blank'><i className="me-3 fab fa-instagram"></i></a>
+              <a href='https://www.google.com/' target='blank'><i className="fab fa-google-plus-g"></i></a>
               </Card.Text>
             </Card.Body>
           </Card>
@@ -36,10 +36,10 @@ const Chef = () => {
               Head Chef
               </Card.Text>
               <Card.Text>
-              <a href='https://facebook.com/' target='blank'><i class="me-3 fab fa-facebook-f"></i></a>
-              <a href='https://twitter.com/' target='blank'><i class="me-3 fab fa-twitter"></i></a>
-              <a href='https://www.instagram.com/' target='blank'><i class="me-3 fab fa-instagram"></i></a>
-              <a href='https://www.google.com/' target='blank'><i class="fab fa-google-plus-g"></i></a>
+              <a href='https://facebook.com/' target='blank'><i className="me-3 fab fa-facebook-f"></i></a>
+              <a href='https://twitter.com/' target='blank'><i className="me-3 fab fa-twitter"></i></a>
+              <a href='https://www.instagram.com/' target='blank'><i className="me-3 fab fa-instagram"></i></a>
+              <a href='https://www.google.com/' target='blank'><i className="fab fa-google-plus-g"></i></a>
               </Card.Text>
             </Card.Body>
           </Card>
@@ -53,10 +53,10 @@ const Chef = () => {
               Chef
               </Card.Text>
               <Card.Text>
-              <a href='https://facebook.com/' target='blank'><i class="me-3 fab fa-facebook-f"></i></a>
-              <a href='https://twitter.com/' target='blank'><i class="me-3 fab fa-twitter"></i></a>
-              <a href='https://www.instagram.com/' target='blank'><i class="me-3 fab fa-instagram"></i></a>
-              <a href='https://www.google.com/' target='blank'><i class="fab fa-google-plus-g"></i></a>
+              <a href='https://facebook.com/' target='blank'><i className="me-3 fab fa-facebook-f"></i></a>
+              <a href='https://twitter.com/' target='blank'><i className="me-3 fab fa-twitter"></i></a>
+              <a href='https://www.instagram.com/' target='blank'><i className="me-3 fab fa-instagram"></i></a>
+              <a href='https://www.google.com/' target='blank'><i className="fab fa-google-plus-g"></i></a>
               </Card.Text>
             </Card.Body>
           </Card>
@@ -70,10 +70,10 @@ const Chef = () => {
               Chef
               </Card.Text>
               <Card.Text>
-              <a href='https://facebook.com/' target='blank'><i class="me-3 fab fa-facebook-f"></i></a>
-              <a href='https://twitter.com/' target='blank'><i class="me-3 fab fa-twitter"></i></a>
-              <a href='https://www.instagram.com/' target='blank'><i class="me-3 fab fa-instagram"></i></a>
-              <a href='https://www.google.com/' target='blank'><i class="fab fa-google-plus-g"></i></a>
+              <a href='https://facebook.com/' target='blank'><i className="me-3 fab fa-facebook-f"></i></a>
+              <a href='https://twitter.com/' target='blank'><i className="me-3 fab fa-twitter"></i></a>
+              <a href='https://www.instagram.com/' target='blank'><i className="me-3 fab fa-instagram"></i></a>
+              <a href='https://www.google.com/' target='blank'><i className="fab fa-google-plus-g"></i></a>
               </Card.Text>
             </Card.Body>
           </Card>
