@@ -2,6 +2,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
 import Blog from './components/Blog/Blog';
+import Cart from './components/Cart/Cart';
 import Chef from './components/Chef/Chef';
 import Customer from './components/Customer/Customer';
 import Footer from './components/Footer/Footer';
@@ -52,6 +53,9 @@ function App() {
        </Route>
        <Route path='/table'>
        <Reservation></Reservation>
+       </Route>
+       <Route path='/cart'>
+       <Cart></Cart>
        </Route>
        <Route path='*'>
          <NotFound></NotFound>
